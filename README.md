@@ -1,7 +1,7 @@
 # exception1-java
 
 Resumo da Aula
-. Cláusula throws: Propga a exceção ao inveés de trata-la
+. Cláusula throws: Propaga a exceção ao inveés de trata-la
 . Cláusual trhow: lança a exceção / "corta" o método
 
 . Exception: Compilado obriga a tratar ou propagar
